@@ -1,5 +1,6 @@
 # Redis Database를 활용한 채팅 서비스
-##
+###
+###
 ### Redis Database란?
 ###
 #### 1. Redis Database의 특징
