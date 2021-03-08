@@ -1,5 +1,10 @@
 # Redis Database를 활용한 채팅 서비스
+<<<<<<< HEAD
 
+=======
+###
+###
+>>>>>>> a69bdd6cee1a0feb62813f317a666ef2f9aaf063
 ### Redis Database란?
 
 #### 1. Redis Database의 특징
