@@ -1,7 +1,7 @@
 # Redis Database를 활용한 채팅 서비스
-#
+
 ### Redis Database란?
-###
+
 #### 1. Redis Database의 특징
 - 오픈 소스 소프트웨어
 - 디스크가 아닌 메모리 기반의 데이터 저장소
@@ -33,5 +33,7 @@
 사용 툴 : Intellij
 
 사용 언어 : Java
+
+데이터베이스 : MySQL, Redis
 
 발전 방향 : Kafka를 사용하여 실시간 채팅 서비스 제작 가능
